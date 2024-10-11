@@ -1,5 +1,6 @@
 ## ToLpaz/Toya Okabe
 異世界とか、ファンタジーな世界観にとてもワクワクする人  
+現在:Blender,Unity勉強中  
 ### 所属
 - 山口大学知能情報工学科:4年  
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/06~)  
