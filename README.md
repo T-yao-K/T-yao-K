@@ -12,6 +12,9 @@
 - [Chrome拡張機能制作](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-browsing/?tab=project) in Space Apps Challenge Ube 2024:People's Choice賞受賞  
 学科HPにて[記事化](http://www.csse.yamaguchi-u.ac.jp/2024/10/20241009.html)
 
+### Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+
 
 <!--
 **T-yao-K/T-yao-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
