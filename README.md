@@ -7,11 +7,11 @@
 - [Iwaken lab.](https://iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)  
 
 ### やったこと
-- [LINEbot制作](https://github.com/HUTOSHI-souseidesign/Support_Camper) in 創成デザイン工学特論及び演習:投票賞受賞
-- [Webアプリ制作](https://github.com/T-yao-K/Webapp):個人製作
-- [VRChat用地震等災害警報アバターシステム制作](https://note.com/tolpaz/n/n67b4062c3b05) in PNGミュージアム × エンジニア集会 コラボハッカソン:note執筆
 - [Chrome拡張機能制作](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-browsing/?tab=project) in Space Apps Challenge Ube 2024:People's Choice賞受賞  
 学科HPにて[記事化](http://www.csse.yamaguchi-u.ac.jp/2024/10/20241009.html)
+- [VRChat用地震等災害警報アバターシステム制作](https://note.com/tolpaz/n/n67b4062c3b05) in PNGミュージアム × エンジニア集会 コラボハッカソン:note執筆
+- [Webアプリ制作](https://github.com/T-yao-K/Webapp):個人製作
+- [LINEbot制作](https://github.com/HUTOSHI-souseidesign/Support_Camper) in 創成デザイン工学特論及び演習:投票賞受賞
 
 ### Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,php,react,next,figma,python,fastapi,docker,eclipse,github,aws,blender,unity,discord,latex,notion,vscode,windows,linux" />
