@@ -3,7 +3,7 @@
 ### 所属
 - 山口大学知能情報工学科:4年  
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/06~)  
-- [Iwaken lab.](https://iwakenlab.jp/):夏メン(2024/08~09),メンバー(2024/10~)  
+- [Iwaken lab.](https://iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)  
 
 ### やったこと
 - [LINEbot制作](https://github.com/HUTOSHI-souseidesign/Support_Camper) in 創成デザイン工学特論及び演習:投票賞受賞
