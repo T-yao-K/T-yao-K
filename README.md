@@ -13,7 +13,7 @@
 学科HPにて[記事化](http://www.csse.yamaguchi-u.ac.jp/2024/10/20241009.html)
 
 ### Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,php,react,next,figma,python,fastapi,docker,eclipse,github,aws,blender,discord,latex,notion,vscode,windows,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,php,react,next,figma,python,fastapi,docker,eclipse,github,aws,blender,unity,discord,latex,notion,vscode,windows,linux" />
 
 
 <!--
