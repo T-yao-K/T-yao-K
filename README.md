@@ -15,7 +15,7 @@
 - [LINEbot制作](https://github.com/HUTOSHI-souseidesign/Support_Camper) in 創成デザイン工学特論及び演習:投票賞受賞
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,html,css,js,ts,php,react,next,figma,python,fastapi,docker,eclipse,github,aws,blender,unity,discord,latex,notion,vscode,windows,linux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=c,html,css,js,ts,php,react,next,figma,python,fastapi,docker,eclipse,github,aws,blender,unity,discord,latex,notion,vscode,windows,linux" />
 
 
 <!--
