@@ -10,6 +10,7 @@
 ### 2024
 - [Chrome拡張機能制作](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-browsing/?tab=project) in Space Apps Challenge Ube 2024:People's Choice賞受賞  
 学科HPにて[記事化](http://www.csse.yamaguchi-u.ac.jp/2024/10/20241009.html)
+- [Iwaken lab.開発合宿](https://note.com/iwaken71/n/n45e1b5b0dd87)参加:ちょまど賞受賞  
 - [VRChat用地震等災害警報アバターシステム制作](https://note.com/tolpaz/n/n67b4062c3b05) in PNGミュージアム × エンジニア集会 コラボハッカソン:note執筆
 - [Webアプリ制作](https://github.com/T-yao-K/Webapp):個人製作
 - [LINEbot制作](https://github.com/HUTOSHI-souseidesign/Support_Camper) in 創成デザイン工学特論及び演習:投票賞受賞
