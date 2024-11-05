@@ -8,6 +8,7 @@
 
 ## やったこと
 ### 2024
+- [イベント参加「YCAM Interlab Camp vol.5 ホモ・コーデンス—AI時代、人類はどう描くのか」](https://note.com/tolpaz/n/n986583536532) in YCAM:note執筆  
 - [Chrome拡張機能制作](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-browsing/?tab=project) in Space Apps Challenge Ube 2024:People's Choice賞受賞  
 学科HPにて[記事化](http://www.csse.yamaguchi-u.ac.jp/2024/10/20241009.html)
 - [Iwaken lab.開発合宿](https://note.com/iwaken71/n/n45e1b5b0dd87)参加:ちょまど賞受賞  
