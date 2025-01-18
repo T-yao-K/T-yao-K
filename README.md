@@ -8,6 +8,8 @@
 - 山口VRサークルFulldive Universal Gateway Unit:代表(2024/11~)
 
 ## やったこと
+### 2025
+- [新年の抱負記事執筆](https://note.com/tolpaz/n/nfacd23cb60ad?sub_rt=share_sb)
 ### 2024
 - [Vtuberになってみる記事執筆](https://note.com/tolpaz/n/nb6ba55b25506?sub_rt=share_sb)
 - [山口VRサークルFulldive Universal Gateway Unit(通称"FUGU")](https://x.com/Y_vr_FUGU)立ち上げ
