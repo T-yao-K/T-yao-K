@@ -9,6 +9,7 @@
 
 ## やったこと
 ### 2024
+- [Vtuberになってみる記事執筆](https://note.com/tolpaz/n/nb6ba55b25506?sub_rt=share_sb)
 - [山口VRサークルFulldive Universal Gateway Unit(通称"FUGU")](https://x.com/Y_vr_FUGU)立ち上げ
   - 立ち上げに関する[note執筆](https://note.com/tolpaz/n/nca2ff75c6f78)
 - [イベント参加・作品制作「YCAM Interlab Camp vol.5 ホモ・コーデンス—AI時代、人類はどう描くのか」](https://note.com/tolpaz/n/n986583536532) in YCAM:note執筆  
