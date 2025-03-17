@@ -17,9 +17,9 @@
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1890953694943809965) in 山口県下関市
 - 卒業論文提出・学部卒業
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1880837984708329500) in 宇部市常盤公園
-- [高校生向けに3Dスキャン・VR体験会開催](https://x.com/enbiz_ube/status/1868571953587687698) in EN-biz
 - [新年の抱負記事執筆](https://note.com/tolpaz/n/nfacd23cb60ad?sub_rt=share_sb)
 ### 2024
+- [高校生向けに3Dスキャン・VR体験会開催](https://x.com/enbiz_ube/status/1868571953587687698) in EN-biz
 - [Vtuberになってみる記事執筆](https://note.com/tolpaz/n/nb6ba55b25506?sub_rt=share_sb)
 - [山口VRサークルFulldive Universal Gateway Unit(通称"FUGU")](https://x.com/Y_vr_FUGU)立ち上げ
   - 立ち上げに関する[note執筆](https://note.com/tolpaz/n/nca2ff75c6f78)
