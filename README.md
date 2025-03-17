@@ -5,7 +5,7 @@
 - 山口大学知能情報工学科:4年  
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
 - [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
-- 山口VRサークルFulldive Universal Gateway Unit:代表(2024/11~)
+- [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
 
 ## やったこと
 ### 2025
