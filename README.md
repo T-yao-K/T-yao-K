@@ -12,6 +12,8 @@
 - [NUMA祭登壇](https://x.com/A919515/status/1901232686989209904)
 - Iwaken Lab. 大LT祭登壇
 - [デジテックLT 5th登壇・司会](https://x.com/T_yao_K/status/1900596725284528481)
+- [山口VRサークル"FUGU"の公式webページ制作](https://github.com/yamaguchi-FUGU/FUGU_HP)
+- [Iwaken Lab. × エンジニア集会 コラボLT会登壇](https://x.com/T_yao_K/status/1893332281932018097)
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1890953694943809965) in 山口県下関市
 - 卒業論文提出・学部卒業
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1880837984708329500) in 宇部市常盤公園
