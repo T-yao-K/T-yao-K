@@ -6,7 +6,6 @@
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
 - [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
-- [forgers](https://forgers.co.jp/):インターン(2024/12~)
 
 ## やったこと
 ### 2025
