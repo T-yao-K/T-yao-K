@@ -10,7 +10,7 @@
 ## やったこと
 ### 2025
 - ["FUGU"でスキャンソン開催](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_pb) in 宇部市ときわ公園
-  - 開催レポートはリンク
+  - リンクは開催レポート
 - [NUMA祭登壇](https://x.com/A919515/status/1901232686989209904)
 - Iwaken Lab. 大LT祭登壇
 - [デジテックLT 5th登壇・司会](https://x.com/T_yao_K/status/1900596725284528481)
