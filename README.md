@@ -9,6 +9,8 @@
 
 ## やったこと
 ### 2025
+- ["FUGU"でスキャンソン開催](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_pb) in 宇部市ときわ公園
+  - 開催レポートはリンク
 - [NUMA祭登壇](https://x.com/A919515/status/1901232686989209904)
 - Iwaken Lab. 大LT祭登壇
 - [デジテックLT 5th登壇・司会](https://x.com/T_yao_K/status/1900596725284528481)
@@ -16,7 +18,7 @@
 - [Iwaken Lab. × エンジニア集会 コラボLT会登壇](https://x.com/T_yao_K/status/1893332281932018097)
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1890953694943809965) in 山口県下関市
 - 卒業論文提出・学部卒業
-- ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1880837984708329500) in 宇部市常盤公園
+- ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1880837984708329500) in 宇部市ときわ公園
 - [新年の抱負記事執筆](https://note.com/tolpaz/n/nfacd23cb60ad?sub_rt=share_sb)
 ### 2024
 - [高校生向けに3Dスキャン・VR体験会開催](https://x.com/enbiz_ube/status/1868571953587687698) in EN-biz
