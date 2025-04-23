@@ -15,7 +15,7 @@
 - ["FUGU"でスキャンソン開催](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_pb) in 宇部市ときわ公園
   - リンクは開催レポート
 - [NUMA祭登壇](https://x.com/A919515/status/1901232686989209904)
-- Iwaken Lab. 大LT祭登壇
+- [Iwaken Lab. 大LT祭登壇](https://youtu.be/i6Mg7kHtbyo?si=Hm2inwOxO7JLRYG1&t=975)
 - [デジテックLT 5th登壇・司会](https://x.com/T_yao_K/status/1900596725284528481)
 - [山口VRサークル"FUGU"の公式webページ制作](https://github.com/yamaguchi-FUGU/FUGU_HP)
 - [Iwaken Lab. × エンジニア集会 コラボLT会登壇](https://x.com/T_yao_K/status/1893332281932018097)
