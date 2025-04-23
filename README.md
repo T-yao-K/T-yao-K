@@ -10,6 +10,7 @@
 ## やったこと
 ### 2025
 - [#せいかつのじかん 第1回"文房具特集"](https://x.com/Tonzura_Bonkura/status/1912793161065271527) 登壇 in cluster
+  - https://x.com/T_yao_K/status/1912799098836508910
 - ["FUGU"でスキャンソン開催](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_pb) in 宇部市ときわ公園
   - リンクは開催レポート
 - [NUMA祭登壇](https://x.com/A919515/status/1901232686989209904)
