@@ -10,6 +10,7 @@
 ## やったこと
 ### 2025
 - [FUGUでVR体験会主催](https://x.com/T_yao_K/status/1921128144313909315)
+  - [イベントページ](https://energetic-case-c23.notion.site/VR-in-1de1df40b1ae808b9e73e71c93bd1732)
 - Iwaken Lab AWARDS 2024 SECOND HALF グッドスタート賞受賞
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1916496352483459186) in 「西の京」山口市
 - [山口県宇部市でスキャンソンを開催した話](https://note.com/tolpaz/n/na3826b85489c?sub_rt=share_sb) : note執筆
