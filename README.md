@@ -1,6 +1,6 @@
 # ToLpaz/Toya Okabe
 異世界とか、ファンタジーな世界観にとてもワクワクする人  
-「VRChatと山口県を舞台に、"理不尽を上書きする異世界"を、よるとうげ的演出とFUGUで実装する」  
+「VRChatと山口県を舞台に、"理不尽を上書きする異世界"を、[よるとうげ](https://vrchat.com/home/launch?worldId=wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b&ref=uploadvr.com)的演出とFUGUで実装する」  
 現在:Unity，パーティクル勉強中  
 ## 所属
 - 山口大学大学院:1年  
