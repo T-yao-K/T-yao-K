@@ -12,7 +12,11 @@
 
 ## やったこと
 ### 2025
-- [FUGUで大阪・関西万博にVRコンテンツを展示](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb)
+- [Iwaken Lab.展 にて、VRゲーム制作・展示](https://x.com/T_yao_K/status/1954620369513615672) : ゲスト賞受賞
+  - 振り返りnote記事
+- [FUGUで大阪・関西万博にVRコンテンツを展示](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb) : 展示レポート
+  - 体験者数90名以上
+  - 振り返りnote記事
 - [FUGUでVR体験会主催](https://x.com/T_yao_K/status/1921128144313909315)
   - [イベントページ](https://energetic-case-c23.notion.site/VR-in-1de1df40b1ae808b9e73e71c93bd1732)
 - Iwaken Lab AWARDS 2024 SECOND HALF グッドスタート賞受賞
