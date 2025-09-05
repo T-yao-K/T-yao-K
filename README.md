@@ -35,6 +35,8 @@
   - ゲスト賞受賞
 - comming soon...
 ### VRChatワールド「PNG6 - 祈 -」
+<img width="800" height="600" alt="image (1)" src="https://github.com/user-attachments/assets/16cd5376-0016-422d-8a92-45e30d1a01a1" />
+
 - [ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
   - Unityエンジニアリング・パーティクル演出担当
 
