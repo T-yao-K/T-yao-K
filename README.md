@@ -21,10 +21,12 @@
   - 体験者数90名以上
   - 振り返りnote記事
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1936421589131923719) in 岩国市
+  - https://energetic-case-c23.notion.site/FUGU-in-21a1df40b1ae8043a5c8e0291d7f5a79
 - [FUGUでVR体験会主催](https://x.com/T_yao_K/status/1921128144313909315)
   - [イベントページ](https://energetic-case-c23.notion.site/VR-in-1de1df40b1ae808b9e73e71c93bd1732)
 - Iwaken Lab AWARDS 2024 SECOND HALF グッドスタート賞受賞
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1916496352483459186) in 「西の京」山口市
+  - https://energetic-case-c23.notion.site/FUGU-in-1e61df40b1ae80929af3d402d3775b40
 - [山口県宇部市でスキャンソンを開催した話](https://note.com/tolpaz/n/na3826b85489c?sub_rt=share_sb) : note執筆
 - Iwaken Lab. 説明会 メンバー代表LT
 - [#せいかつのじかん 第1回"文房具特集"](https://x.com/Tonzura_Bonkura/status/1912793161065271527) 登壇 in cluster
