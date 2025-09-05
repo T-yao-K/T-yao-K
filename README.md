@@ -29,6 +29,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d138c28a-804e-4d49-846e-6535642b8528" />
 
 - チームリーダー・プランニング・エフェクト担当
+- [動作動画](https://x.com/mofurune_k/status/1957093824460914815)
 - [Iwaken Lab.展にて展示](https://x.com/T_yao_K/status/1954620369513615672)
   - ゲスト賞受賞
 - comming soon...
