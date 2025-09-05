@@ -34,7 +34,7 @@
 - [Iwaken Lab.展にて展示](https://x.com/T_yao_K/status/1954620369513615672)
   - ゲスト賞受賞
 - comming soon...
-### PNG6 - 祈 -
+### VRChatワールド「PNG6 - 祈 -」
 - [ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
   - Unityエンジニアリング・パーティクル演出担当
 
