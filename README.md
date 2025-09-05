@@ -22,6 +22,7 @@
   - 振り返りnote記事
 - FUGU×[OUCC](https://oucc.org/)コラボ交流会開催 in VRChat
   - https://energetic-case-c23.notion.site/FUGU-OUCC-2381df40b1ae8079a8c6d33925ae9ef8
+- [FUGU総会開催](https://energetic-case-c23.notion.site/FUGU-2381df40b1ae80aab317c63387e4d0f2?source=copy_link) in VRChat
 - ["FUGU"でスキャンソン開催](https://x.com/Y_vr_FUGU/status/1936421589131923719) in 岩国市
   - https://energetic-case-c23.notion.site/FUGU-in-21a1df40b1ae8043a5c8e0291d7f5a79
 - [FUGUでVR体験会主催](https://x.com/T_yao_K/status/1921128144313909315)
