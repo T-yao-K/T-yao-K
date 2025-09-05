@@ -9,7 +9,7 @@
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
 - [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~)
   - Unity・WebFEエンジニア
-- [PNGミュージアム](https://sites.google.com/view/pngmuseum):(2025/1~)ワールド班
+- [PNGミュージアム](https://sites.google.com/view/pngmuseum):ワールド班(2025/1~)
 
 ## 代表作
 ### 山口VRサークルFulldive Universal Gateway Unit
