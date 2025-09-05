@@ -16,8 +16,11 @@
 - [公式HP](https://yamaguchi-vr-fugu.vercel.app/)
 - [公式X](https://x.com/Y_vr_FUGU)
 - [立ち上げに関するnote](https://note.com/tolpaz/n/nca2ff75c6f78?sub_rt=share_sb)
-- [スキャンソン開催レポート](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_sb)
-- [大阪・関西万博展示レポート](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb)
+- 宇部市と連携してイベント(スキャンソン)開催
+  - [スキャンソン開催レポート](https://note.com/y_vr_fugu/n/nd43b3ca508e2?sub_rt=share_sb)
+  - [振り返りnote](https://note.com/tolpaz/n/na3826b85489c?sub_rt=share_sb)
+- 大阪・関西万博のデジタル学園祭にてVRコンテンツを制作・展示
+  - [大阪・関西万博展示レポート](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb)
 
 ## やったこと
 ### 2025
