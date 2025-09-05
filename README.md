@@ -8,7 +8,8 @@
 - [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
 - [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~)
-  - Unity・WebFEエンジニア 
+  - Unity・WebFEエンジニア
+- [PNGミュージアム](https://sites.google.com/view/pngmuseum):(2025/1~)ワールド班
 
 ## やったこと
 ### 2025
