@@ -13,6 +13,8 @@
 
 ## やったこと
 ### 2025
+- PNG6-祈-:[ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
+  - Unityエンジニアリング・演出担当 
 - [Iwaken Lab.展 にて、VRゲーム制作・展示](https://x.com/T_yao_K/status/1954620369513615672) : ゲスト賞受賞
   - 振り返りnote記事
 - [FUGUで大阪・関西万博にVRコンテンツを展示](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb) : 展示レポート
