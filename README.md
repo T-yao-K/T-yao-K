@@ -28,12 +28,18 @@
 ### VRゲーム「Sketch Knights」
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d138c28a-804e-4d49-846e-6535642b8528" />
 
+
+
+https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
+
+
 - [Iwaken Lab. 開発合宿2025](https://note.com/iwaken71/n/n89abd679c5c4?sub_rt=share_sb)にて制作
   - チームリーダー・プランニング・エフェクト担当
 - [動作動画](https://x.com/mofurune_k/status/1957093824460914815)
 - [Iwaken Lab.展にて展示](https://x.com/T_yao_K/status/1954620369513615672)
   - ゲスト賞受賞
-- comming soon...
+- TOKYO GAME SHOW 2025にて展示
+  - [告知ポスト](https://x.com/T_yao_K/status/1965797862828278134)
 ### VRChatワールド「PNG6 - 祈 -」
 <img width="800" height="600" alt="image (1)" src="https://github.com/user-attachments/assets/16cd5376-0016-422d-8a92-45e30d1a01a1" />
 
