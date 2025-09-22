@@ -2,6 +2,8 @@
 異世界とか、ファンタジーな世界観にとてもワクワクする人  
 「VRChatと山口県を舞台に、"理不尽を上書きする異世界"を、[よるとうげ](https://vrchat.com/home/launch?worldId=wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b&ref=uploadvr.com)的演出と[FUGU](https://yamaguchi-vr-fugu.vercel.app/)で実装する」  
 現在:Unity，パーティクル勉強中  
+<img width="1920" height="1080" alt="ToLpaz (3)" src="https://github.com/user-attachments/assets/281c6caa-498a-4225-b097-b0d9054a841f" />
+
 ## 所属
 - 山口大学大学院:1年  
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
