@@ -18,7 +18,7 @@
 <img width="8173" height="4000" alt="image" src="https://github.com/user-attachments/assets/e6e8cbd3-a0f7-414f-90fa-d93600e532ae" />
 
 - 立ち上げ人・代表
-  - イベントの主催・プロジェクトマネジメント・エンジニアリングを主に担当
+  - イベント主催・プロジェクトマネジメント・エンジニアリングを主に担当
 - [公式HP](https://yamaguchi-vr-fugu.vercel.app/)
 - [公式X](https://x.com/Y_vr_FUGU)
 - [立ち上げに関するnote](https://note.com/tolpaz/n/nca2ff75c6f78?sub_rt=share_sb)
