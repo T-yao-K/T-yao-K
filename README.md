@@ -53,10 +53,10 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 - PNG6-祈-:[ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
   - Unityエンジニアリング・演出担当 
 - [Iwaken Lab.展 にて、VRゲーム制作・展示](https://x.com/T_yao_K/status/1954620369513615672) : ゲスト賞受賞
-  - 振り返りnote記事
+  - 振り返りnote記事(執筆中)
 - [FUGUで大阪・関西万博にVRコンテンツを展示](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb) : 展示レポート
   - 体験者数90名以上
-  - 振り返りnote記事
+  - 振り返りnote記事(執筆中)
 - FUGU×[OUCC](https://oucc.org/)コラボ交流会開催 in VRChat
   - https://energetic-case-c23.notion.site/FUGU-OUCC-2381df40b1ae8079a8c6d33925ae9ef8
 - [FUGU総会開催](https://energetic-case-c23.notion.site/FUGU-2381df40b1ae80aab317c63387e4d0f2?source=copy_link) in VRChat
