@@ -50,6 +50,9 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2025
+- PNGハッカソン主催・運営
+  - [開催発信note](https://note.com/png_official/n/n050587007f1e?sub_rt=share_sb)
+  - [集合写真](https://x.com/png_museum_vrc/status/1967425263106744750)
 - [FUGUでデザイン勉強会開催](https://x.com/Y_vr_FUGU/status/1964613917151527248)
 - [FUGUでGit勉強会開催](https://x.com/Y_vr_FUGU/status/1963998232251339039)
 - PNG6-祈-:[ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
