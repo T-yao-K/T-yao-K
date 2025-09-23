@@ -50,6 +50,8 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2025
+- [FUGUでデザイン勉強会開催](https://x.com/Y_vr_FUGU/status/1964613917151527248)
+- [FUGUでGit勉強会開催](https://x.com/Y_vr_FUGU/status/1963998232251339039)
 - PNG6-祈-:[ワールド制作](https://x.com/T_yao_K/status/1959251304494035162)
   - Unityエンジニアリング・演出担当 
 - [Iwaken Lab.展 にて、VRゲーム制作・展示](https://x.com/T_yao_K/status/1954620369513615672) : ゲスト賞受賞
