@@ -53,7 +53,20 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2025
-- 
+- XRkaigi2025参加
+  - [登壇](https://x.com/T_yao_K/status/1996093730571649082?s=20)
+  - [展示](https://x.com/T_yao_K/status/1995788548054868198?s=20)
+- [FUGU](https://yamaguchi-vr-fugu.vercel.app/) と [Kait-VR](https://x.com/KaitVR_info/status/1989719601089765654?s=20) で交流会開催
+- 国際学会にて英語発表
+  - 参加学会：ICCAS2025
+- [FUGU × Iwaken Lab. コラボ近況報告会開催](https://x.com/Y_vr_FUGU/status/1984828777558655438?s=20)
+  - [FUGUがIwaken Lab.のオフィシャルパートナーに](https://note.com/iwakenlab/n/nb19b3a322cd8?sub_rt=share_sb)
+- [FUGUでスキャンソン開催](https://x.com/Y_vr_FUGU/status/1974421998093890028?s=20) in 宇部高校
+  - 県教育委員会と共催
+- [Space Apps Challenge Ube 運営メンバー](https://x.com/T_yao_K/status/1974790391632421263?s=20)
+- [TOKYO GAME SHOW 2025にて「Sketch Knights」を展示](https://x.com/T_yao_K/status/1972210169506680984?s=20)
+- [3Dスキャン&メタバース研究会登壇](https://x.com/T_yao_K/status/1969996563222237581?s=20)
+- [FUGUでスキャンソン開催](https://x.com/Y_vr_FUGU/status/1967577781438754849?s=20) in 長門市
 - [FUGUでデザイン勉強会開催](https://x.com/Y_vr_FUGU/status/1964613917151527248)
 - [FUGUでGit勉強会開催](https://x.com/Y_vr_FUGU/status/1963998232251339039)
 - PNGハッカソン主催・運営
