@@ -43,6 +43,8 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
   - ゲスト賞受賞
 - TOKYO GAME SHOW 2025にて展示
   - [告知ポスト](https://x.com/T_yao_K/status/1965797862828278134)
+- XRkaigi 2025にて展示
+  - [展示報告ポスト](https://x.com/T_yao_K/status/1995788548054868198?s=20)
 ### VRChatワールド「PNG6 - 祈 -」
 <img width="800" height="600" alt="image (1)" src="https://github.com/user-attachments/assets/16cd5376-0016-422d-8a92-45e30d1a01a1" />
 
@@ -51,6 +53,7 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2025
+- 
 - [FUGUでデザイン勉強会開催](https://x.com/Y_vr_FUGU/status/1964613917151527248)
 - [FUGUでGit勉強会開催](https://x.com/Y_vr_FUGU/status/1963998232251339039)
 - PNGハッカソン主催・運営
