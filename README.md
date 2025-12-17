@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2025
+- 自己紹介記事執筆
+  - [自己紹介：『異世界クリエイター』として生きる](https://note.com/tolpaz/n/n25acd789c557?sub_rt=share_sb)
 - XRkaigi2025参加
   - [登壇](https://x.com/T_yao_K/status/1996093730571649082?s=20)
   - [展示](https://x.com/T_yao_K/status/1995788548054868198?s=20)
