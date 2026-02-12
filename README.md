@@ -9,8 +9,10 @@
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
 - [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
-- [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~)
+- [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~2026/1)
   - Unity・WebFEエンジニア
+- [株式会社MyDearest](https://mydearestvr.com/):インターン(2026/2~)
+  - Unityエンジニア
 - [PNGミュージアム](https://sites.google.com/view/pngmuseum):ワールド班(2025/1~)
 
 ## 代表作
