@@ -56,6 +56,15 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
   - Unityエンジニアリング・パーティクル演出担当
 
 ## やったこと
+### 2026
+- FUGUスキャンソン in 萩
+  - [活動記録](https://energetic-case-c23.notion.site/in-3101df40b1ae80fe86ecf55db13817e8)
+- FUGUでプログラミング勉強会開催
+  - 講師担当
+  - [X発信](https://x.com/Y_vr_FUGU/status/2009997874202062972?s=20)
+  - [活動記録](https://energetic-case-c23.notion.site/2e41df40b1ae80ffbfb0ec59bd3d08cf)
+- 記事執筆
+  - [2025年の振り返りと2026年の抱負](https://note.com/tolpaz/n/n463ea4fd167e?sub_rt=share_sb)
 ### 2025
 - 自己紹介記事執筆
   - [自己紹介：『異世界クリエイター』として生きる](https://note.com/tolpaz/n/n25acd789c557?sub_rt=share_sb)
