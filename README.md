@@ -57,6 +57,8 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2026
+- FUGU卒業式
+  - [活動記録](https://energetic-case-c23.notion.site/FUGU-2026-3321df40b1ae80df8809f0aa706ae570)
 - Iwaken Lab. 大LT祭 実行委員長
   - 53名が登壇するオンラインイベントの全体統括・ディレクション
   - [X発信](https://x.com/T_yao_K/status/2032736576858693772?s=20)
