@@ -11,7 +11,7 @@
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
 - [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~2026/1)
   - Unity・WebFEエンジニア
-- [株式会社MyDearest](https://mydearestvr.com/):インターン(2026/2~)
+- [MyDearest株式会社](https://mydearestvr.com/):インターン(2026/2~)
   - Unityエンジニア
 - [PNGミュージアム](https://sites.google.com/view/pngmuseum):ワールド班(2025/1~)
 
