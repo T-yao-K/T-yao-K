@@ -1,19 +1,25 @@
 # ToLpaz/Toya Okabe
 異世界とか、ファンタジーな世界観にとてもワクワクする人  
 「VRChatと山口県を舞台に、"理不尽を上書きする異世界"を、[よるとうげ](https://vrchat.com/home/launch?worldId=wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b&ref=uploadvr.com)的演出と[FUGU](https://yamaguchi-vr-fugu.vercel.app/)で実装する」  
-現在:Unity，パーティクル勉強中  
+現在:就活→修論取組中  
 <img width="1920" height="1080" alt="ToLpaz (3)" src="https://github.com/user-attachments/assets/281c6caa-498a-4225-b097-b0d9054a841f" />
 
 ## 所属
 - 山口大学大学院:2年  
-- [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
-- [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
-- [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
-- [株式会社 forgers](https://forgers.co.jp/):インターン(2024/12~2026/1)
+- [Code for Yamaguchi](https://codeforyamaguchi.org/)
+  - コアメンバー(2024/07~)  
+- [Iwaken Lab.](https://www.iwakenlab.jp/)
+  - 夏メン(2024/08,09),メンバー(2024/10~)
+- [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/)
+  - 代表(2024/11~)
+- [株式会社 forgers](https://forgers.co.jp/)
+  - インターン(2024/12~2026/1)
   - Unity・WebFEエンジニア
-- [MyDearest株式会社](https://mydearestvr.com/):インターン(2026/2~)
+- [MyDearest株式会社](https://mydearestvr.com/)
+  - インターン(2026/2~)
   - Unityエンジニア
-- [PNGミュージアム](https://sites.google.com/view/pngmuseum):ワールド班(2025/1~)
+- [PNGミュージアム](https://sites.google.com/view/pngmuseum)
+  - ワールド班(2025/1~)
 
 ## 代表作
 ### 山口VRサークルFulldive Universal Gateway Unit
