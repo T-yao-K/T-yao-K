@@ -38,6 +38,8 @@
 - 大阪・関西万博のデジタル学園祭にてVRコンテンツを制作・展示
   - [大阪・関西万博展示レポート](https://note.com/y_vr_fugu/n/nff3212f9f56f?sub_rt=share_sb)
   - [振り返りnote](https://note.com/tolpaz/n/n1c757d6d0479?sub_rt=share_sb)
+- 県教育委員会と連携してイベント開催
+  - [活動記録](https://energetic-case-c23.notion.site/FUGU-in-2981df40b1ae809eaa97d3ce2b66c69b)
 ### VRゲーム「Sketch Knights」
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d138c28a-804e-4d49-846e-6535642b8528" />
 
