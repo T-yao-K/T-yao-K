@@ -57,6 +57,10 @@ https://github.com/user-attachments/assets/e8b1e846-7c98-441a-b41a-37c2a2c51e5b
 
 ## やったこと
 ### 2026
+- Iwaken Lab. 大LT祭 実行委員長
+  - 53名が登壇するオンラインイベントの全体統括・ディレクション
+  - [X発信](https://x.com/T_yao_K/status/2032736576858693772?s=20)
+  - [X発信(by イワケンさん)](https://x.com/iwaken71/status/2033052457828495822?s=20)
 - FUGUスキャンソン in 萩
   - [活動記録](https://energetic-case-c23.notion.site/in-3101df40b1ae80fe86ecf55db13817e8)
 - FUGUでプログラミング勉強会開催
