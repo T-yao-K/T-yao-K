@@ -17,7 +17,8 @@
 
 ## 代表作
 ### 山口VRサークルFulldive Universal Gateway Unit
-<img width="4090" height="2000" alt="image" src="https://github.com/user-attachments/assets/e6e8cbd3-a0f7-414f-90fa-d93600e532ae" />
+<img width="8173" height="4000" alt="486137557-e6e8cbd3-a0f7-414f-90fa-d93600e532ae" src="https://github.com/user-attachments/assets/651b0d0b-d9d7-400f-9427-4f44a2cbda18" />
+
 
 - 立ち上げ人・代表
   - イベント主催・プロジェクトマネジメント・エンジニアリングを主に担当
