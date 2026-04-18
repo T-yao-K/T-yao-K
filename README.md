@@ -5,7 +5,7 @@
 <img width="1920" height="1080" alt="ToLpaz (3)" src="https://github.com/user-attachments/assets/281c6caa-498a-4225-b097-b0d9054a841f" />
 
 ## 所属
-- 山口大学大学院:1年  
+- 山口大学大学院:2年  
 - [Code for Yamaguchi](https://codeforyamaguchi.org/):コアメンバー(2024/07~)  
 - [Iwaken Lab.](https://www.iwakenlab.jp/):夏メン(2024/08,09),メンバー(2024/10~)
 - [山口VRサークルFulldive Universal Gateway Unit](https://yamaguchi-vr-fugu.vercel.app/):代表(2024/11~)
